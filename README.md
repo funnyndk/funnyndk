@@ -1,7 +1,7 @@
 ## About Me
 
 - 💻 Offensive security tool developer.
-- ✍️ Once studied under timWhitez.
+- ✍️ Once studied under timwhitez.
 - 📚 Learning penetration test.
 - 🎲 Board game player.
 
